@@ -1,0 +1,4 @@
+__pycache__/
+.kilocodemodes
+.venv*/
+google-credentials.json
